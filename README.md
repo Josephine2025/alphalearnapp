@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## Apetizer.io
+
+Test the app instantly on Appetize.io:  
+(https://appetize.io/app/b_3scquawe7ukxz4345qsz4crk6e)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
