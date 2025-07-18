@@ -43,3 +43,37 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# iOS/macOS related
+ios/Pods/
+ios/.symlinks/
+ios/.generated/
+macos/Pods/
+macos/.symlinks/
+macos/.generated/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+
+# Windows related
+windows/flutter/
+windows/CMakeFiles/
+windows/CMakeCache.txt
+windows/Makefile
+windows/build/
+windows/Debug/
+
+# Linux related
+linux/flutter/
+linux/CMakeFiles/
+linux/CMakeCache.txt
+linux/Makefile
+linux/build/
+linux/Debug/
+
+# Web related
+web/.dart_tool/
+
+# Other common files
+*.tmp
+*.lock
